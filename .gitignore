@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+
+# 出图产物
+*.tif
+*.png
+*.pdf
+*.emf
+*.opju
+*.oggu
+*_fit.csv
+_check.png
+_preview.png
